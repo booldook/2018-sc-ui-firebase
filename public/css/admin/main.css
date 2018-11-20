@@ -1,0 +1,8 @@
+@import "../base.css";
+
+body {padding-top:5rem;}
+.wrap {margin:0 auto; width:100%; max-width:800px;}
+.lists {margin-top:50px;}
+.lists > li > div {padding:6px; float:left; border-bottom:1px solid #ccc;}
+.lists > li > div:nth-child(1) {width:60%;}
+.lists > li > div:nth-child(2) {width:40%;}
